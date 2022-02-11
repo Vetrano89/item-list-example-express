@@ -17,4 +17,4 @@ Node version: v14.17.0
 
 ### Overview
 
-This is the backend for [https://github.com/Vetrano89/item-list-example](the React webapp in this repo)
+This is the backend for [the React webapp in this repo](https://github.com/Vetrano89/item-list-example)
